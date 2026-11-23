@@ -419,7 +419,7 @@
 #. message or event log entry in the main window; text in standard windows
 	All files	所有文件
 #. text in helpers.rs
-	All set: on a page with a video, use Tasks → Download video from a page.	准备就绪：在包含视频的页面上，点击「任务 → 从页面下载视频」即可。
+	All set: on a page with a video, use Tasks → Download video from a page.	准备就绪：在包含视频的页面上，点击“任务”→“从页面下载视频”即可。
 #. text in the Download video window
 #. in the Subtitles list of Download video: every language the video's uploader gave
 #, machine
